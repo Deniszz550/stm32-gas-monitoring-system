@@ -1,0 +1,22 @@
+# Build outputs
+Debug/
+Release/
+bin/
+obj/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+
+# IDE and Project Settings
+.settings/
+*.launch
+.metadata/
+.history/
+
+# OS generated files
+.DS_Store
+Thumbs.db
